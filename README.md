@@ -1,6 +1,6 @@
 # Reading from file within JAR file
 
-This project is to showcase the the topic of my blogpost.
+This project is to showcase the the topic of my [blogpost](https://blog.birgitkratz.de/reading-from-a-file-within-a-jar).
 
 The project has two modules (SpringBootApplications)
 - CrashingApp
